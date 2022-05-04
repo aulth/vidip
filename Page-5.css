@@ -1,0 +1,43 @@
+.heading{
+    margin: 70px 0px 0px 100px;
+    font-size: 80px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+}
+
+.btn{
+    height: 80px;
+    width: 300px;
+    position: relative;
+    bottom: 350px;
+    left: 90px;
+    font-size: 20px;
+    border-radius: 60px;
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.img{
+    position: relative;
+    right: 250px;
+    top: 120px;
+}
+
+.d-1{
+    position: relative;
+    left: 900px;
+    bottom: 380px;
+}
+
+.d-2{
+    position: relative;
+    left: 900px;
+    bottom: 380px;
+}
+
+.d-3{
+    position: relative;
+    left: 900px;
+    bottom: 380px;
+}

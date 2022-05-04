@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.btn{
+    margin-top: 50px;
+    position: relative;
+    left: 1000px;
+    word-spacing: 35px;
+    
+}
+
+.btn-1{
+    height: 60px;
+    width: 180px;
+    font-size: 20px;
+    border-radius: 60px;
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Data-Hire{
+    font-size: 110px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 90px 0px 0px 100px;
+    color: rgb(239 201 172);
+}
+
+.Para-1{
+    font-size: 27px;
+    font-family: Arial;
+    margin: 30px 0px 0px 100px;
+    color: rgb(239 201 172);
+}
+
+.Para-2{
+    font-size: 45px;
+    font-weight: 300px;
+    position: relative;
+    left: 997px;
+    bottom: 370px;
+    font-family: system-ui;
+    color: rgb(239 201 172);
+}

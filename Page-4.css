@@ -1,0 +1,89 @@
+.heading{
+    position: relative;
+    left: 500px;
+    top: 30px;
+    font-size: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color:burlywood;
+}
+
+li{
+    display: inline;
+    align-content: center;
+}
+
+.temp-1{
+    height: 400px;
+    width: 300px;
+    position: relative;
+    left: 122px;
+}
+
+.temp-2{
+    height: 400px;
+    width: 300px;
+    position: relative;
+    left: 280px;
+}
+
+.temp-3{
+    height: 400px;
+    width: 300px;
+    position: relative;
+    left: 490px;
+}
+
+.Step-1{
+    position: relative;
+    left: 250px;
+    color: rgba(255, 111, 0, 0.974);
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Step-2{
+    position: relative;
+    left: 750px;
+    bottom: 115px;
+    color: rgba(255, 111, 0, 0.974);
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Step-3{
+    position: relative;
+    left: 1250px;
+    color: rgba(255, 111, 0, 0.974);
+    font-size: 25px;
+    bottom: 230px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Para-1{
+    position: relative;
+    left: 120px;
+    font-size: 17px;
+    color:burlywood;
+    font-family:'Roboto Mono', monospace;
+}
+
+.Para-2{
+    position: relative;
+    left: 620px;
+    bottom: 120px;
+    font-size: 17px;
+    color:burlywood;
+    font-family:'Roboto Mono', monospace;
+    word-wrap:normal;
+}
+
+.Para-3{
+    position: relative;
+    left: 1100px;
+    bottom: 240px;
+    font-size: 17px;
+    color:burlywood;
+    font-family:'Roboto Mono', monospace;
+    word-wrap:normal;
+}

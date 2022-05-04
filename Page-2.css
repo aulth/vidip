@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.para-1{
+    margin: 40px 0px 0px 50px;
+    font-size: x-large;
+}
+
+.heading{
+    font-size: 95px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 540;
+    margin: 45px;
+}
+
+.para-2{
+    position: relative;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 1000px;
+}
+
+.para-3{
+    position: relative;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 1000px;
+    margin-top: 40px;
+}
+
+.Emp{
+    position: relative;
+    bottom: 380px;
+    left: 200px;
+}
